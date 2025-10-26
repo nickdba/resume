@@ -8,12 +8,12 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Laurentiu Nicolae Alexandrescu
+  tagline: Lead Devops Engineer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
+  email: laur.alexandrescu@gmail.com
   phone: 012 345 6789
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
@@ -62,14 +62,13 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Lead DevOps Engineer
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    A technical professional with over 17 years of valuable experience in a multitude of
+    programming languages and cultural environments. Hard working enthusiastic
+    problem-solver who can easily pick up new technical expertise. A self-motivated and
+    determined team player who is used to meet tight deadlines. Seeking new challenges
+    to further develop skills and experience.
 education:
   title: Education
   info:
